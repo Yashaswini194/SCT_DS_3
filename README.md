@@ -1,4 +1,4 @@
-# 📊 Task 2 – Mental Health Data Analysis
+# 📊 Task 3 – Mental Health Data Analysis
 
 This repository contains my Task 2 submission for the **SkillCraft Technology Data Science Internship**.
 
